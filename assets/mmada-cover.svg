@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">MMaDA-Parallel</title>
+  <desc id="desc">An abstract composition of parallel text and image streams.</desc>
+  <rect width="1200" height="675" fill="#d9d2c5"/>
+  <rect x="72" y="72" width="1056" height="531" fill="#f2eee6" stroke="#2b3a37" stroke-width="2"/>
+  <path d="M124 183H1074M124 337H1074M124 491H1074" stroke="#d6d0c4" stroke-width="2"/>
+  <path d="M124 137H580M124 291H580M124 445H580" stroke="#2b3a37" stroke-width="5"/>
+  <path d="M664 137H1074M664 291H1074M664 445H1074" stroke="#b87561" stroke-width="5"/>
+  <rect x="124" y="154" width="118" height="58" fill="#9aa793"/>
+  <rect x="258" y="154" width="212" height="58" fill="#2b3a37"/>
+  <rect x="124" y="308" width="212" height="58" fill="#b87561"/>
+  <rect x="352" y="308" width="118" height="58" fill="#9eafb1"/>
+  <rect x="664" y="154" width="118" height="58" fill="#2b3a37"/>
+  <rect x="798" y="154" width="276" height="58" fill="#9aa793"/>
+  <rect x="664" y="308" width="276" height="58" fill="#b87561"/>
+  <rect x="956" y="308" width="118" height="58" fill="#2b3a37"/>
+  <path d="M566 120V554" stroke="#b87561" stroke-width="2" stroke-dasharray="8 12"/>
+  <text x="124" y="554" fill="#2b3a37" font-family="Arial, sans-serif" font-size="25" font-weight="700">MMaDA / PARALLEL</text>
+  <text x="1074" y="554" fill="#6d756e" font-family="Arial, sans-serif" font-size="16" text-anchor="end">TEXT + IMAGE</text>
+</svg>
